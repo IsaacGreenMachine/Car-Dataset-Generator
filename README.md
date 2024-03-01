@@ -2,7 +2,7 @@
 ![](https://media.licdn.com/dms/image/D5622AQFf3N3VC0z3PA/feedshare-shrink_2048_1536/0/1706565996052?e=1712188800&v=beta&t=LrJ9n6ekVjT00VU4HbP08xshddz9wppS-GkApn3Rt9k)
 
 Welcome to the car dataset generator!\
-This is a project that implements the [Perception](https://docs.unity3d.com/Packages/com.unity.perception@1.0/manual/index.html) package inside Unity to generate labeled datasets with which to train self-driving cars! \
+This project implements the [Perception](https://docs.unity3d.com/Packages/com.unity.perception@1.0/manual/index.html) package inside Unity to generate labeled datasets to train self-driving cars, smart traffic lights, and a diverse range of transit-based models! \
 Some useful features of this project are:
 - World Randomization
   - time of day
